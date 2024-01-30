@@ -52,9 +52,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Jdecho1118/Jdecho1118/output/snake.svg" alt="Snake animation" />
-
-###
